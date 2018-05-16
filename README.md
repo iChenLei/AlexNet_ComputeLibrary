@@ -5,6 +5,10 @@
 #### How to run it?
 >No , You can't run it, because some cross complie question i didn't solve
 
+```bash
+  git clone https://github.com/iChenLei/AlexNet_ComputeLibrary.git -depth=1
+```
+
 
 #### If you meet any problem!
 ```bash
